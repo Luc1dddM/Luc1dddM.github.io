@@ -40,14 +40,16 @@ Vòng lặp `for` được dùng để lặp qua các phần tử của một **
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    Hình n: Cú pháp và luồng thực thi của vòng lặp `for`.
 </div>
 
 ### Cú pháp
 
 ```python
+# code trước for
 for i in iterable:
     # khối mã cần thực thi
+# code sau for
 ```
 
 * `for`, `in`: là các **từ khóa (keywords)** của Python.
@@ -88,11 +90,22 @@ Kết quả:
 
 Vòng lặp `while` lặp lại **miễn là điều kiện vẫn đúng (`True`)**.
 
+<div class="row mt-3">
+    <div class="col-full mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blog/Week1/WhileLoop.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Hình n: Cú pháp và luồng thực thi của vòng lặp `while`.
+</div>
+
 ### Cú pháp
 
 ```python
+# code trước while
 while condition:
     # khối mã cần thực thi
+# code sau while
 ```
 
 ### Luồng thực thi
