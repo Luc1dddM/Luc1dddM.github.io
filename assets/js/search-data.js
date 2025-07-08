@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-tìm-hiểu-về-vòng-lặp-trong-python",
+            },{id: "post-recap-kiến-thức-tuần-2-module-1-aio-2025",
+        
+          title: "Recap Kiến Thức Tuần 2 Module 1 - AIO 2025",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/blog-M2-week1/";
+          
+        },
+      },{id: "post-tìm-hiểu-về-vòng-lặp-trong-python",
         
           title: "Tìm hiểu về vòng lặp trong Python",
         
