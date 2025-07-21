@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-recap-kiến-thức-tuần-2-module-1-aio-2025",
+            },{id: "post-blog-m2-week2",
+        
+          title: "Blog M2 Week2",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/blog-M2-week2/";
+          
+        },
+      },{id: "post-recap-kiến-thức-tuần-2-module-1-aio-2025",
         
           title: "Recap Kiến Thức Tuần 2 Module 1 - AIO 2025",
         
