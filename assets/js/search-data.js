@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-thống-kê-và-xác-suất-từ-cơ-bản-đến-nâng-cao-tổng-hợp-kiến-thức-đầy-đủ",
+            },{id: "post-recap-kiến-thức-tuần-3-module-2-aio-2025",
         
-          title: "Thống kê và Xác suất: Từ cơ bản đến nâng cao - Tổng...",
+          title: "Recap Kiến Thức Tuần 3 Module 2 - AIO 2025",
         
         description: "",
         section: "Posts",
@@ -83,9 +83,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/blog-M2-week3/";
           
         },
-      },{id: "post-recap-kiến-thức-tuần-2-module-1-aio-2025",
+      },{id: "post-recap-kiến-thức-tuần-2-module-2-aio-2025",
         
-          title: "Recap Kiến Thức Tuần 2 Module 1 - AIO 2025",
+          title: "Recap Kiến Thức Tuần 2 Module 2 - AIO 2025",
         
         description: "",
         section: "Posts",
