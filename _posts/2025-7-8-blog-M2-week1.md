@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Recap Kiến Thức Tuần 2 Module 1 - AIO 2025"
-date: 2025-06-09
-categories: [Python, Numpy, Week2]
+date: 2025-07-08
+categories: [Python, Numpy, Week1]
 ---
 
-# Recap Kiến Thức Tuần 2 Module 1 - AIO 2025
+# Recap Kiến Thức Tuần 1 Module 2 - AIO 2025
 
 🔖 **Mục lục nhanh**:
 - [1. Kiến thức cơ bản về NumPy](#1-kiến-thức-cơ-bản-về-numpy)
