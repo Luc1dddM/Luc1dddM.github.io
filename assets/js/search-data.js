@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-recap-kiến-thức-tuần-3-module-2-aio-2025",
+            },{id: "post-project-email-spam-classification",
+        
+          title: "Project Email Spam Classification",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/project-M2/";
+          
+        },
+      },{id: "post-recap-kiến-thức-tuần-3-module-2-aio-2025",
         
           title: "Recap Kiến Thức Tuần 3 Module 2 - AIO 2025",
         
