@@ -442,7 +442,3 @@ Phân tích điểm tin cậy:
 - **Kết quả có thể giải thích**: Các hàng xóm gần nhất và điểm tin cậy
 - **Dự đoán bền vững**: Ensemble giảm hiện tượng quá khớp
 - **Sẵn sàng cho sản xuất**: Pipeline hoàn chỉnh từ đầu vào văn bản đến kết quả
-
-### 🎯 Ứng dụng thực tế
-
-#### 1. **Hệ thống
